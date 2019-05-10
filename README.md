@@ -1,10 +1,14 @@
 # dotnet-challenge
 
 Get: /api/comments
+
 Parameter: pageNumber (optional), pageSize (optional)
+
 Response: 
-		Code:				Description
-		200				    Success
+
+		Code:					Description
+		
+		200					  Success
 		
 							[{commentId:1,
 							  commentBody:''
@@ -24,17 +28,26 @@ Response:
 							}]
 
 Post: /api/comments
+
 Parameter: 
-Name							Description
-comment							Example value
-								{
-									CommentBody: '',
-									UserId: 1,
-									BlogTopicId: 1
+
+		Name							Description
+
+
+		comment							Example value
+
+									{
+										CommentBody: '',
+										UserId: 1,
+										BlogTopicId: 1
+									}
 
 Response
-Code							Descriptoin
-200								Success
+
+                Code						Descriptoin
+
+                200							 Success
+
 
 
 #todo
