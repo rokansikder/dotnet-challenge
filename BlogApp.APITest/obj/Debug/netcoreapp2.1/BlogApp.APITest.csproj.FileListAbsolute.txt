@@ -1,0 +1,14 @@
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\bin\Debug\netcoreapp2.1\BlogApp.APITest.deps.json
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\bin\Debug\netcoreapp2.1\BlogApp.APITest.runtimeconfig.json
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\bin\Debug\netcoreapp2.1\BlogApp.APITest.runtimeconfig.dev.json
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\bin\Debug\netcoreapp2.1\BlogApp.APITest.dll
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\bin\Debug\netcoreapp2.1\BlogApp.APITest.pdb
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\obj\Debug\netcoreapp2.1\BlogApp.APITest.csprojAssemblyReference.cache
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\obj\Debug\netcoreapp2.1\BlogApp.APITest.csproj.CoreCompileInputs.cache
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\obj\Debug\netcoreapp2.1\BlogApp.APITest.AssemblyInfoInputs.cache
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\obj\Debug\netcoreapp2.1\BlogApp.APITest.AssemblyInfo.cs
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\obj\Debug\netcoreapp2.1\BlogApp.APITest.dll
+C:\Work\Agility\BlogApp.API\BlogApp.APITest\obj\Debug\netcoreapp2.1\BlogApp.APITest.pdb
